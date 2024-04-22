@@ -45,7 +45,7 @@
 
  
 ### Minhas Redes Sociais  / My Social Networks:
-![Instagran](ht[tps://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/p1csleo99/)
+![Instagran](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=yLeonardo99&logoColor=white )
 
 <!-- Contador de visita no perfil -->
 
