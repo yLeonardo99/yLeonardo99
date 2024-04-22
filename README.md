@@ -45,7 +45,7 @@
 
  
 ### Minhas Redes Sociais  / My Social Networks:
-![Instagran](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=yLeonardo99&logoColor=white )
+<h2>Ainda vou inserir aqui</h2>
 
 <!-- Contador de visita no perfil -->
 
