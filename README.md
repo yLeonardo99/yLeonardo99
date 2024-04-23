@@ -45,7 +45,8 @@
 
  
 ### Minhas Redes Sociais  / My Social Networks:
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/leonardo-cassiano-435b62257/))
+
+<h3>Vou inserir</h3>
 
 <!-- Contador de visita no perfil -->
 
