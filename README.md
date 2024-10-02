@@ -1,20 +1,26 @@
 
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- CABEÇARIO  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+25+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+developmentat;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  <!-- FONT & COR INFORMAÇÕES -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E745E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+25+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+developmentat;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!-- Commits e Linguagens uilizadas -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardo99&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardo99&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardo99&show_icons=true&count_private=true&hide_border=true&title_color=E745E5&icon_color=E745E5&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardo99&layout=compact&hide_border=true&title_color=E745E5&text_color=E745E5&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardo99&bg_color=28323a&color=00ffd5&line=05ffee&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardo99&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yLeonardo99&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+
 
  <!-- Principais Habilidades-->
 
@@ -77,4 +83,4 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  width= "880" heicht="192" alt="Jogo da Cobrinha" />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
