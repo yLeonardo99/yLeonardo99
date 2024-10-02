@@ -80,27 +80,39 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yLeonardo99}/count.svg" /></p> 
 <br></div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  width= "880" heicht="192" alt="Jogo da Cobrinha" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  width="880" height="192" alt="Jogo da Cobrinha" />
 
-<div style="text-align: center;">
+<div style="text-align: center; position: relative; margin-top: 20px;">
     <div style="position: relative; height: 50px;">
         <img src="https://i.pinimg.com/originals/40/06/98/400698fbf1e2d947ed45de3892c92ae5.gif" width="50" class="ninja" style="position: absolute; left: -60px; top: 15px;">
         <h4 style="
             display: inline-block; 
-            animation: flip 1s ease-in-out forwards; 
             font-family: 'Arial', sans-serif; 
             color: #ff4500; 
+            animation: fadeIn 2s ease-in-out forwards; 
             opacity: 0;">
             Volte Sempre!
         </h4>
- 
-
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="margin-right: 575px;"> <!-- Aumentei para 20px -->
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100">
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="transition: transform 0.3s ease; margin-right: 30px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </div>
 </div>
+
+<!-- Animações CSS -->
+<style>
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
-
-
