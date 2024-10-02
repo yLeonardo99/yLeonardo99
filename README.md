@@ -1,4 +1,23 @@
 
+
+
+<!-- KAKAKASHI -->
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp)
+
+<!-- =========================================================================== -->
+
+<!-- OBITO -->
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100" style="display: block; margin:0;" backgound="write"/>
+
+<div style="display: flex; justify-content: flex-end; align-items: center;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="margin-right: 10px;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100">
+</div>
+
+<!-- ============================== -->
+
+
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <!-- CABEÇARIO  -->
@@ -81,6 +100,81 @@
 <br></div>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  width= "880" heicht="192" alt="Jogo da Cobrinha" />
+<div style="text-align: center;">
+   <div style="text-align: center; position: relative;">
+<div align="center">
+    <br><p align="centre"><b>Visitas | Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yLeonardo99}/count.svg" /></p> 
+    <br>
+</div>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="880" height="192" alt="Jogo da Cobrinha" />
+
+<div style="text-align: center;">
+    <div style="position: relative; height: 50px;">
+        <img src="https://i.pinimg.com/originals/40/06/98/400698fbf1e2d947ed45de3892c92ae5.gif" width="50" class="ninja" style="position: absolute; left: -60px; top: 15px;">
+        <h4 style="
+            display: inline-block; 
+            animation: flip 1s ease-in-out forwards; 
+            font-family: 'Arial', sans-serif; 
+            color: #ff4500; 
+            opacity: 0;">
+            Volte Sempre!
+        </h4>
+    </div>
+</div>
+
+<style>
+@keyframes run {
+    0% {
+        transform: translateX(0);
+        left: -60px; 
+    }
+    50% {
+        left: calc(100% - 80px);
+    }
+    100% {
+        left: -60px; 
+    }
+}
+
+@keyframes flip {
+    0% {
+        transform: rotate(0deg);
+        opacity: 0; 
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(0deg);
+        opacity: 1; 
+    }
+}
+
+.ninja {
+    animation: run 3s linear infinite; 
+}
+</style>
+
+<script>
+const ninja = document.querySelector('.ninja');
+const text = document.querySelector('h4');
+
+ninja.addEventListener('animationiteration', () => {
+    text.style.animation = 'flip 1s ease-in-out forwards'; // 
+    text.style.opacity = '1'; 
+});
+</script>
+
+<div style="display: flex; justify-content: flex-end; align-items: center;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="margin-right: 90px;"> <!-- Aumentei para 20px -->
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100">
+</div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
+
+
