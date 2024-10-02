@@ -93,51 +93,7 @@
             opacity: 0;">
             Volte Sempre!
         </h4>
-    </div>
-</div>
-
-<style>
-@keyframes run {
-    0% {
-        transform: translateX(0);
-        left: -60px; 
-    }
-    50% {
-        left: calc(100% - 80px);
-    }
-    100% {
-        left: -60px; 
-    }
-}
-
-@keyframes flip {
-    0% {
-        transform: rotate(0deg);
-        opacity: 0; 
-    }
-    50% {
-        transform: rotate(180deg);
-    }
-    100% {
-        transform: rotate(0deg);
-        opacity: 1; 
-    }
-}
-
-.ninja {
-    animation: run 3s linear infinite; 
-}
-</style>
-
-<script>
-const ninja = document.querySelector('.ninja');
-const text = document.querySelector('h4');
-
-ninja.addEventListener('animationiteration', () => {
-    text.style.animation = 'flip 1s ease-in-out forwards'; // 
-    text.style.opacity = '1'; 
-});
-</script>
+ 
 
 <div style="display: flex; justify-content: flex-end; align-items: center;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="margin-right: 90px;"> <!-- Aumentei para 20px -->
