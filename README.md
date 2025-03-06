@@ -6,7 +6,7 @@
   
   <!-- FONT & COR INFORMAÇÕES -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E745E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+25+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+developmentat;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E745E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+developmentat;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Commits e Linguagens uilizadas -->
 
