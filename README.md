@@ -101,10 +101,16 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="150">
 </div><br><br>
 
-<p align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=&s=50&c=18f75b&bg=000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
-</p>
+<!-- Contador de visita no perfil -->
 
+<div align="center">
+    <br>
+    <p align="center"><b>Visitors Count</b></p>  
+    <p align="center">
+        <img align="center" src="https://profile-counter.glitch.me/{yleonardo99}/count.svg" />
+    </p> 
+    <br>
+</div>
 <!-- Borda Final do Readme -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
