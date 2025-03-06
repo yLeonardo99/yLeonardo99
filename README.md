@@ -98,7 +98,10 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="150">
 </div>
 
-
+### Contador de Visitas
+<div style="text-align: center;">
+    <img src="https://visit-counter.vercel.app/counter.png?page=&s=50&c=39FF14&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
+</div>
 
 <!-- Borda Final do Readme -->
 
