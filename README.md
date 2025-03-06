@@ -99,9 +99,11 @@
 </div>
 
 ### Contador de Visitas
+
 <p align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=&s=50&c=39FF14&bg=000000&no=2&ff=digi&tb=&ta=" alt="visits">
+    <img src="https://visit-counter.vercel.app/counter.png?page=&s=50&c=18f75b&bg=000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
 </p>
+
 
 
 <!-- Borda Final do Readme -->
