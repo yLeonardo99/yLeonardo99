@@ -87,17 +87,16 @@
    ### Volte Sempre 😆 <br>
           
 <!-- Bonequinho & LINHA RGB -->
-<img src="https://i.pinimg.com/originals/40/06/98/400698fbf1e2d947ed45de3892c92ae5.gif" width="80" class="ninja" style="position: absolute; left: -55px; top: 15px;"><br>
+<!--img src="https://i.pinimg.com/originals/40/06/98/400698fbf1e2d947ed45de3892c92ae5.gif" width="80" class="ninja" style="position: absolute; left: -55px; top: 15px;"><br>-->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000%">
 <br>
-
 <!-- PACMAN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000%">
  
 <div style="display: flex; justify-content: flex-end; align-items: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="100" style="margin-right: 575px;"> <!-- Aumentei para 20px -->
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="100">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="150" style="margin-right: 575px;"> <!-- Aumentei para 20px -->
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="150">
 </div>
 
 <!-- Contador de visita no perfil -->
