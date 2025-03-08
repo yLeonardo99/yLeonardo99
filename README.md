@@ -110,6 +110,7 @@
     </p> 
     <br>
 </div>
+
 <!-- Borda Final do Readme -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
