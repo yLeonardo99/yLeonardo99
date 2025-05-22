@@ -37,7 +37,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   </a>
   </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" alt="SQLite" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/> </a>
 
@@ -73,7 +72,7 @@
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 </div>
 
  <!-- SOCIAL NETWORKS -->
@@ -82,9 +81,9 @@
 ### My Social Networks:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a href="https://www.youtube.com/@Leonardo_Dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Leonardo.Dev" height="40" width="40"/>
-  </a>
+<a href="https://www.youtube.com/@Leonardo_Dev" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" style="vertical-align: middle;"/>
+</a>
   <a href="https://www.linkedin.com/in/leonardo-cassiano-435b62257/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="Linkedin" width="40" height="40"/>
   </a>
